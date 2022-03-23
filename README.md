@@ -1,5 +1,5 @@
 # wcatCommands
-In first i made wcat as a global command or alternative commands  for running files like wcat -w abc.txt and others
+In first I made wcat as a global command or alternative commands  for running files like wcat -w abc.txt and others
 wcat is a global command as node "node filename" so you can run file by the "wcat filename"
 This is the project in which i created some commands by me for example:-
 
